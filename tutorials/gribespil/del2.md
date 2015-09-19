@@ -1,6 +1,3 @@
----
-layout: post
----
 Scratch-tutorial: Udvidelser til "Grib mønterne!"
 =================================================
 *af Martin Dybdal*

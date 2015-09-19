@@ -9,13 +9,17 @@ Institut, Københavns Universitet.
 De udgives under Creative Commons licens: Attribution-NonCommercial-ShareAlike
 <https://creativecommons.org/licenses/by-nc-sa/2.0/>.
 
- * [Labyrint](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md) skrevet af Martin Dybdal og Sebastian Paaske Tørholm, efter idé af Martin Exner.
+### Labyrint
+<https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md>
 
-   Martin Exner har lavet et screen cast af denne tutorial: https://www.youtube.com/watch?v=1-Jb8fKMaIc
+Skrevet af Martin Dybdal og Sebastian Paaske Tørholm, efter idé af Martin Exner.
+
+Martin Exner har lavet et screen cast af denne tutorial: https://www.youtube.com/watch?v=1-Jb8fKMaIc
     
- * Gribespil
-     * [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md)
-     * [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
+### Gribespil
+
+ * [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md)
+ * [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
 
    
 

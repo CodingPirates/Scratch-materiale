@@ -9,8 +9,8 @@ Institut, Københavns Universitet.
 De udgives under Creative Commons licens: Attribution-NonCommercial-ShareAlike
 <https://creativecommons.org/licenses/by-nc-sa/2.0/>.
 
- * Labyrint spil i to dele
- * Gribespil
+ * [Labyrint](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md)
+ * Gribespil [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md), [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
 
 
 Skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
@@ -51,4 +51,4 @@ Lærebøger (Engelsk)
 -------------------
  * [Super Scratch Programming Adventure!](https://www.nostarch.com/scratch)
 
-   Indeholder 10 projekter
+   Indeholder 9 projekter

@@ -12,29 +12,26 @@ De udgives under Creative Commons licens: Attribution-NonCommercial-ShareAlike
  * [Labyrint](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md)
  * Gribespil [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md), [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
 
-
-Skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
+Idéer og skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
 -------------------------------------------------
 
  * [Platformsspil](https://scratch.mit.edu/projects/58270212/) udviklet af Martin Dybdal
  * [Food eater](https://scratch.mit.edu/projects/59714666/) udviklet af Andreas Rudolph
  * [Racerbil-spil](https://scratch.mit.edu/projects/77571782/) kodet af Martin Dybdal, efter [denne engelske vejledning](http://scratched.gse.harvard.edu/resources/speed-racer-1-hour-scratch-introduction)
-
+ * [Tron](https://scratch.mit.edu/projects/51702046/) udviklet af Martin Dybdal
+ * [Snake](https://scratch.mit.edu/projects/52558434/) udviklet af Sebastian Paaske Tørholm
+ * [To-player Pong](https://scratch.mit.edu/projects/50651346/) udviklet af Martin Dybdal og Ulrik Rasmussen
+ * [Break Out!](https://scratch.mit.edu/projects/49281572/) udviklet af Sebastian Paaske Tørholm
+ 
 Inspiration (fra andre)
 -----------------------
- * Ping pong
  * Pacman
  * Space Invaders / grib frugter - https://scratch.mit.edu/projects/50756724/
  * Labyrint-spil - http://scratch.mit.edu/projects/1248137/
- * Flappy Birds - http://4code.dk/wp-content/uploads/2015/01/Lav-dit-eget-Flappy-Bird.pdf
- * Tron - https://scratch.mit.edu/projects/51702046/
- * Snake - https://scratch.mit.edu/projects/52558434/
  * Wack-a-mole - http://scratch.mit.edu/projects/264849/
- * Break Out! - https://scratch.mit.edu/projects/49281572/
  * Tamagotchi
  * Insaniquarium-klon
  * Tekken / Street fighter
-
 
 Links
 -----

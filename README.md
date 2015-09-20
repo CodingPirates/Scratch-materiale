@@ -3,20 +3,22 @@ Scratch undervisningsmateriale på dansk
 
 Tutorials
 ---------
-Disse tutorials er udarbejdet ifbm. "Coding Pirates" på Datalogisk
-Institut, Københavns Universitet.
+Disse tutorials er udarbejdet ifbm. "Coding Pirates" aktiviteter.
 
 De udgives under Creative Commons licens: Attribution-NonCommercial-ShareAlike
 <https://creativecommons.org/licenses/by-nc-sa/2.0/>.
 
 ### Labyrint
-<https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md>
+Idé: Martin Exner
 
-Skrevet af Martin Dybdal og Sebastian Paaske Tørholm, efter idé af Martin Exner.
+[Screencast](https://www.youtube.com/watch?v=1-Jb8fKMaIc) af Martin Exner.
 
-Martin Exner har lavet et screen cast af denne tutorial: https://www.youtube.com/watch?v=1-Jb8fKMaIc
+
+[Tutorial](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md) af Martin Dybdal og Sebastian Paaske Tørholm
+
     
 ### Gribespil
+Af Martin Dybdal og Sebastian Paaske Tørholm
 
  * [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md)
  * [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
@@ -24,7 +26,7 @@ Martin Exner har lavet et screen cast af denne tutorial: https://www.youtube.com
    
 
 Idéer og skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
--------------------------------------------------
+----------------------------------------------------------
 
  * [Platformsspil](https://scratch.mit.edu/projects/58270212/) udviklet af Martin Dybdal
  * [Food eater](https://scratch.mit.edu/projects/59714666/) udviklet af Andreas Rudolph

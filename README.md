@@ -16,14 +16,14 @@ Idé: Martin Exner
 
 [Tutorial](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/labyrinten/del1.md) af Martin Dybdal og Sebastian Paaske Tørholm
 
-    
+
 ### Gribespil
 Af Martin Dybdal og Sebastian Paaske Tørholm
 
  * [Del 1](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del1.md)
  * [Del 2](https://github.com/CodingPirates/Scratch-materiale/blob/master/tutorials/gribespil/del2.md)
 
-   
+
 
 Idéer og skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
 ----------------------------------------------------------
@@ -35,7 +35,7 @@ Idéer og skabelonspil (Udviklet ifbm. Coding Pirates DIKU)
  * [Snake](https://scratch.mit.edu/projects/52558434/) udviklet af Sebastian Paaske Tørholm
  * [To-player Pong](https://scratch.mit.edu/projects/50651346/) udviklet af Martin Dybdal og Ulrik Rasmussen
  * [Break Out!](https://scratch.mit.edu/projects/49281572/) udviklet af Sebastian Paaske Tørholm
- 
+
 Inspiration (fra andre)
 -----------------------
  * Pacman
@@ -45,12 +45,13 @@ Inspiration (fra andre)
  * Tamagotchi
  * Insaniquarium-klon
  * Tekken / Street fighter
+ * Bachelor 2015 hold - [f1rsteholdet](https://scratch.mit.edu/studios/1491288/)
 
 Links
 -----
  * <http://kreakode.dk/kurser/> - af Martin Exner
  * <http://4code.dk/elevark-2> - af Mads Remvig
- 
+
    Her finder du bl.a.
    * Flappy birds tutorial
    * Pong-spil tutorial

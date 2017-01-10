@@ -58,8 +58,11 @@ Links
    * Space Invaders tutorial
    * Akvarium
 
-Lærebøger (Engelsk)
--------------------
- * [Super Scratch Programming Adventure!](https://www.nostarch.com/scratch)
+Lærebøger 
+---------
+ * Dansk
+   * [Lære at laver computerspil](https://bibliotek.dk/da/work/870970-basis%3A51983483)
+ * Engelsk
+  * [Super Scratch Programming Adventure!](https://www.nostarch.com/scratch)
 
    Indeholder 9 projekter
